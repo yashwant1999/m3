@@ -1,0 +1,3 @@
+class DataLogic {
+  getData() {}
+}
